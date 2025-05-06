@@ -1,0 +1,4 @@
+[2025-05-05 20:38:46] Chicago_station11.txt: Inserted 10 new records.
+[2025-05-05 20:38:46] Chicago_station21.txt: Inserted 19 new records.
+[2025-05-05 20:38:46] ETL job complete. Total inserted: 29
+
